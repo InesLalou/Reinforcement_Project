@@ -2,6 +2,10 @@
 
 Ce projet explore l'utilisation de l'apprentissage par renforcement pour contrôler un bras robotique interagissant avec des cubes dans un environnement dynamique basé sur des événements. L'objectif est que le robot apprenne à reconnaître des séquences d'événements et à prendre des décisions pour agir efficacement dans son environnement.
 
+![Kuka Arm example](Illustration_of_Kuka_arm.png)
+![Open the Chest Environment](Open_The_chest_Environment.png)
+
+
 ## Objectif
 
 Développer un système d'apprentissage par renforcement permettant à un bras robotique KUKA de :
