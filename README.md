@@ -29,3 +29,8 @@ Développer un système d'apprentissage par renforcement permettant à un bras r
 
 ```bash
 pip install pybullet stable-baselines3 gym numpy matplotlib
+
+
+## Equipe
+
+Sarah Garcia, Lily Daganaud, Candice Bouqin-Renoux, Ines Lalou
