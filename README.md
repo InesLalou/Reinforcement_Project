@@ -13,8 +13,15 @@ Développer un système d'apprentissage par renforcement permettant à un bras r
 ## Technologies utilisées
 
 - **PyBullet** : Simulation physique du bras robotique.
-- **Open the Chests (OtC)** : Environnement événementiel pour l'entraînement du robot.
-- **Stable-Baselines3 (SB3)** : Implémentation de l'algorithme PPO (Proximal Policy Optimization).
+- **Open the Chests (OtC)** : Environnement événementiel pour l'entraînement du robot. Créé par nos professeures Sao Mai Nguyen et Ivelina Stoyanova.
+- **Stable-Baselines3 (SB3)**
+
+  ## Modèles utilisés
+- **PPO** (Proximal Policy Optimization) – Apprentissage bras robotique. 
+- **DQN** (Deep Q-Network)
+- **GRU** (Gated Recurrent Unit)
+
+## Technologies utilisées
 
 ## Composants
 
@@ -29,8 +36,9 @@ Développer un système d'apprentissage par renforcement permettant à un bras r
 
 ```bash
 pip install pybullet stable-baselines3 gym numpy matplotlib
+```
 
 
 ## Equipe
 
-Sarah Garcia, Lily Daganaud, Candice Bouqin-Renoux, Ines Lalou
+Lily Daganaud, Candice Bouqin-Renoux, Sarah Garcia, Ines Lalou
